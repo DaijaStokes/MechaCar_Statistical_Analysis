@@ -28,5 +28,9 @@ The summary for all manufacturing lots
 f-8f33-d5e34b05d3bd.png">
 
 
-![Uploading Screen Shot 2022-05-24 at 2.00.20 AM.png…]()
+
+<img width="408" alt="Screen Shot 2022-05-24 at 2 00 20 AM" src="https://user-images.githubusercontent.com/77857472/169965202-3f690621-86f5-4661-8c46-06fc5fa640ff.png">
+
+<img width="408" alt="Screen Shot 2022-05-24 at 2 00 27 AM" src="https://user-images.githubusercontent.com/77857472/169965034-cd8727a0-501e-489<img width="408" alt="Screen Shot 2022-05-24 at 2 00 20 AM" src="https://user-images.githubusercontent![Uploading Screen Shot 2022-05-24 at 2.00.20 AM.png…]()
+
 
