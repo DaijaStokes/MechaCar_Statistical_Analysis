@@ -24,13 +24,5 @@ The summary for all manufacturing lots
 
 <img width="408" alt="Screen Shot 2022-05-24 at 2 00 34 AM" src="https://user-images.githubusercontent.com/77857472/169965024-c9534f42-5fd4-4ffe-b419-9c1f08e84f90.png">
 
-<img width="408" alt="Screen Shot 2022-05-24 at 2 00 27 AM" src="https://user-images.githubusercontent.com/77857472/169965034-cd8727a0-501e-489<img width="408" alt="Screen Shot 2022-05-24 at 2 00 20 AM" src="https://user-images.githubusercontent.com/77857472/169965076-15a6a705-f40f-4756-b112-2f0e771f1904.png">
-f-8f33-d5e34b05d3bd.png">
-
-
-
-<img width="408" alt="Screen Shot 2022-05-24 at 2 00 20 AM" src="https://user-images.githubusercontent.com/77857472/169965202-3f690621-86f5-4661-8c46-06fc5fa640ff.png">
-
-<img width="408" alt="Screen Shot 2022-05-24 at 2 00 27 AM" src="https://user-images.githubusercontent.com/77857472/169965034-cd8727a0-501e-489<img width="408" alt="Screen Shot 2022-05-24 at 2 00 20 AM" src="https://user-images.githubusercontent![Uploading Screen Shot 2022-05-24 at 2.00.20 AM.png…]()
 
 
