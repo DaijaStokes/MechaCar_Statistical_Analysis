@@ -19,10 +19,9 @@ The deeper dive of the 3 different lots
 ## t_Tests on Suspension Coils 
 
 The summary for all manufacturing lots
+
 <img width="489" alt="Screen Shot 2022-05-24 at 2 39 04 AM" src="https://user-images.githubusercontent.com/77857472/169965012-acc98fa3-186b-4b3e-9d7c-238f8aaa21f1.png">
 
-
-<img width="408" alt="Screen Shot 2022-05-24 at 2 00 34 AM" src="https://user-images.githubusercontent.com/77857472/169965024-c9534f42-5fd4-4ffe-b419-9c1f08e84f90.png">
 
 
 
